@@ -33,7 +33,7 @@ $origem_usuario = "Celsius";
 $destino_usuario = "Fahrenheit";
 $valor_usuario = 100;
 
-echo "$valor_usuario em graus $origem_usuario é igual a: ";
+echo "$valor_usuario graus em $origem_usuario é igual a: ";
 
 echo converterTemperatura($origem_usuario, $destino_usuario, $valor_usuario) . " graus $destino_usuario";
 
