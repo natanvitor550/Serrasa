@@ -20,7 +20,7 @@ function senhaAleatoria($tamanho = 8) {
     return $senha;
 }
 
-funcition contarVogais($texto) {
+function contarVogais($texto) {
     $vogais = ['a', 'e', 'i', 'o', 'u'];
     $contador = 0;
     for ($i = 0; $i < strlen($texto); $i++) {
