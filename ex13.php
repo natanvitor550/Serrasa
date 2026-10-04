@@ -27,7 +27,7 @@ for ($i = 0; $i < strlen($texto); $i++) {
 return $resultado;
 }
 
-$mensagem = "Eu tentei pensar em algo maneiro, mas não consegui";
+$mensagem = "Aqui é democracia, quem manda sou eu";
 $deslocamento = 3;
 
 echo "Mensagem original: $mensagem <br>";
